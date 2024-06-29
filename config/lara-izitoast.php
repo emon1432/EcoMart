@@ -4,7 +4,7 @@ return [
     'messageColor' => '',
     'titleSize' => '25',
     'messageSize' => '20',
-    'titleLineHeight' => '25',
+    'titleLineHeight' => '20',
     'messageLineHeight' => '20',
     'transitionIn' => 'flipInX',
     'transitionOut' => 'flipOutX',
