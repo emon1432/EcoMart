@@ -221,13 +221,13 @@
                             <div class="form-check switch-select"> <label class="form-check-label"
                                     for="switcher-loader-enable">
                                     Enable </label> <input class="form-check-input" type="radio" name="page-loader"
-                                    id="switcher-loader-enable"> </div>
+                                    id="switcher-loader-enable" checked=""> </div>
                         </div>
                         <div class="col-4">
                             <div class="form-check switch-select"> <label class="form-check-label"
                                     for="switcher-loader-disable">
                                     Disable </label> <input class="form-check-input" type="radio"
-                                    name="page-loader" id="switcher-loader-disable" checked=""> </div>
+                                    name="page-loader" id="switcher-loader-disable"> </div>
                         </div>
                     </div>
                 </div>
